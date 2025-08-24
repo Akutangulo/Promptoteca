@@ -38,7 +38,7 @@ Abre el archivo `index.html` en tu navegador o súbelo a tu servidor web.
 
 ## 🛠️ Uso
 
-1. Edita el archivo `prompts.json` con tus propios prompts.
+1. Edita el archivo `promptoteca.json` con tus propios prompts.
    El formato recomendado es el siguiente:
 
    ```json
@@ -64,7 +64,7 @@ Abre el archivo `index.html` en tu navegador o súbelo a tu servidor web.
    }
    ```
 
-2. Guarda los cambios en `prompts.json`.
+2. Guarda los cambios en `promptoteca.json`.
 
 3. Abre la aplicación en tu navegador.
 
