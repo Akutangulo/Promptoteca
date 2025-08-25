@@ -20,6 +20,17 @@
             "tipo": [],
             "titulo": "Instrucción simple para corregir redacción",
             "contenido": "Escribe con claridad y concisión. La ortografía y gramática son importantes."
+        },
+        {
+            "categorias": [
+                "Programación",
+                "Habitual"
+            ],
+            "tipo": [
+                "prompt"
+            ],
+            "titulo": "Forzar la escritura de código completo sin omisiones",
+            "contenido": "Escribe el código completo de principio a fin y proporciona todo el bloque de código sin omitir partes. \n Tienes todo el codigo necesario para realizar esta mision, no delegues esta responsabilidad en nadie, dispones del codigo completo de principio a fin."
         }
 
       
