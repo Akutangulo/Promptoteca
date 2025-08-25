@@ -11,6 +11,15 @@
             ],
             "titulo": "Continuar la conversación anterior",
             "contenido": "Hola de nuevo, vamos a continuar, ¿puedes leer la conversacion? \n¿Te acuerdas de lo que estabamos hablando?"
+        },
+         {
+            "categorias": [
+                "Redacción: Edición y Mejora",
+                "Habitual"
+            ],
+            "tipo": [],
+            "titulo": "Instrucción simple para corregir redacción",
+            "contenido": "Escribe con claridad y concisión. La ortografía y gramática son importantes."
         }
 
       
