@@ -31,6 +31,17 @@
             ],
             "titulo": "Forzar la escritura de código completo sin omisiones",
             "contenido": "Escribe el código completo de principio a fin y proporciona todo el bloque de código sin omitir partes. \n Tienes todo el codigo necesario para realizar esta mision, no delegues esta responsabilidad en nadie, dispones del codigo completo de principio a fin."
+        },
+        {
+            "categorias": [
+                "Ventas"
+            ],
+            "tipo": [
+                "prompt",
+                "asistente"
+            ],
+            "titulo": "Actuar como Coach de Ventas avanzado",
+            "contenido": "Quiero que actúe como experto en ventas con conocimientos avanzados en diversos sectores. Quiero mejorar mis resultados de ventas en un sector específico. Necesito aprender técnicas de venta avanzadas, estrategias, guiones y herramientas que puedan ayudarme a aumentar mis tasas de conversión. \n Su tarea consiste en proporcionarme información exhaustiva sobre técnicas de venta avanzadas adaptadas a mi sector. Incluya estrategias eficaces, guiones de muestra y herramientas que pueda utilizar para mejorar mi rendimiento de ventas. \n Asegúrese de que la información que proporciona es específica del sector, práctica y aplicable. Debe ser de nivel avanzado, no básico ni intermedio. Debe centrarse en aumentar las tasas de conversión. Si necesita más información sobre mi sector o mis técnicas de venta actuales, póngase en contacto con nosotros."
         }
 
       
