@@ -42,7 +42,20 @@
             ],
             "titulo": "Actuar como Coach de Ventas avanzado",
             "contenido": "Quiero que actúe como experto en ventas con conocimientos avanzados en diversos sectores. Quiero mejorar mis resultados de ventas en un sector específico. Necesito aprender técnicas de venta avanzadas, estrategias, guiones y herramientas que puedan ayudarme a aumentar mis tasas de conversión. \n Su tarea consiste en proporcionarme información exhaustiva sobre técnicas de venta avanzadas adaptadas a mi sector. Incluya estrategias eficaces, guiones de muestra y herramientas que pueda utilizar para mejorar mi rendimiento de ventas. \n Asegúrese de que la información que proporciona es específica del sector, práctica y aplicable. Debe ser de nivel avanzado, no básico ni intermedio. Debe centrarse en aumentar las tasas de conversión. Si necesita más información sobre mi sector o mis técnicas de venta actuales, póngase en contacto con nosotros."
-        }
+        },
+        {
+  "categorias": [
+    "IA: Creación de Prompts",
+    "Avanzado"
+  ],
+  "tipo": [
+    "prompt",
+    "asistente"
+  ],
+  "titulo": "Convertir texto en prompt efectivo para LLM",
+  "contenido": "Actúa como un experto en creación de prompts para modelos de lenguaje grandes (LLM).\n\nTu tarea es convertir el contenido entre comillas triples (\"\"\") en un prompt detallado y efectivo que pueda ser entendido y utilizado por un modelo de lenguaje natural (LLM).\n\nTe proporcionaré una descripción de una tarea que quiero que realice un LLM, junto con cualquier información relevante, como contexto, ejemplos, estilo deseado, longitud, etc., que deberás organizar en una estructura lógica y fluida que comprenda cualquier LLM.\n\nTu tarea es generar un prompt claro, conciso y efectivo que guíe al LLM para completar la tarea de la manera más precisa y útil posible. Escribe el nuevo prompt generado en un bloque de código en markdown para poder copiarlo con facilidad."
+}
+
 
       
     ]
