@@ -54,7 +54,18 @@
   ],
   "titulo": "Convertir texto en prompt efectivo para LLM",
   "contenido": "Actúa como un experto en creación de prompts para modelos de lenguaje grandes (LLM).\n\nTu tarea es convertir el contenido entre comillas triples (\"\"\") en un prompt detallado y efectivo que pueda ser entendido y utilizado por un modelo de lenguaje natural (LLM).\n\nTe proporcionaré una descripción de una tarea que quiero que realice un LLM, junto con cualquier información relevante, como contexto, ejemplos, estilo deseado, longitud, etc., que deberás organizar en una estructura lógica y fluida que comprenda cualquier LLM.\n\nTu tarea es generar un prompt claro, conciso y efectivo que guíe al LLM para completar la tarea de la manera más precisa y útil posible. Escribe el nuevo prompt generado en un bloque de código en markdown para poder copiarlo con facilidad."
-}
+},
+{
+            "categorias": [
+                "Marketing: Estrategia"
+            ],
+            "tipo": [
+                "prompt",
+                "asistente"
+            ],
+            "titulo": "Analizar y definir estrategia de Marketing (Producto y Precio)",
+            "contenido": "En su papel de estratega de marketing, debe analizar cómo las dos Ps del marketing, Producto y Precio, pueden utilizarse eficazmente en su negocio específico o decisión de marketing. Para empezar con el producto, evalúe cómo las características, la calidad, el diseño, la marca y el envase de su producto satisfacen las necesidades y preferencias de su mercado objetivo. Identifique las propuestas de venta únicas (USP) de su producto que lo distinguen de los competidores. Considere también cómo influye el ciclo de vida de su producto en sus estrategias de marketing y cómo puede innovar o adaptar el producto para que siga siendo relevante y atractivo para sus clientes. \n Pasando al precio, profundice en las estrategias de fijación de precios que se alinean con sus objetivos empresariales y su posicionamiento en el mercado. Evalúe si una estrategia de precios basada en el coste, en el valor, en la competencia o en la penetración es más adecuada para su empresa. Considere cómo influye la fijación de precios en la percepción del cliente y cómo puede utilizarse como herramienta para atraer y retener clientes. Explore también estrategias de precios dinámicos, descuentos y opciones de agrupación para aumentar el atractivo de su producto. \n Tanto el producto como el precio deben funcionar en tándem para crear una propuesta de valor convincente para sus clientes. Esencial alinear estos elementos con el mensaje general de la marca y las expectativas de su público objetivo. \n Para ofrecerle un análisis más personalizado, ¿podría facilitarnos más información sobre la naturaleza de su negocio, su mercado objetivo, la estrategia de precios actual y cualquier reto u objetivo específico que tenga en mente en relación con el Producto y el Precio? Esta información nos ayudará a ofrecerle una estrategia más personalizada y práctica para su negocio."
+        }
 
 
       
