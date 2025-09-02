@@ -65,8 +65,18 @@
             ],
             "titulo": "Analizar y definir estrategia de Marketing (Producto y Precio)",
             "contenido": "En su papel de estratega de marketing, debe analizar cómo las dos Ps del marketing, Producto y Precio, pueden utilizarse eficazmente en su negocio específico o decisión de marketing. Para empezar con el producto, evalúe cómo las características, la calidad, el diseño, la marca y el envase de su producto satisfacen las necesidades y preferencias de su mercado objetivo. Identifique las propuestas de venta únicas (USP) de su producto que lo distinguen de los competidores. Considere también cómo influye el ciclo de vida de su producto en sus estrategias de marketing y cómo puede innovar o adaptar el producto para que siga siendo relevante y atractivo para sus clientes. \n Pasando al precio, profundice en las estrategias de fijación de precios que se alinean con sus objetivos empresariales y su posicionamiento en el mercado. Evalúe si una estrategia de precios basada en el coste, en el valor, en la competencia o en la penetración es más adecuada para su empresa. Considere cómo influye la fijación de precios en la percepción del cliente y cómo puede utilizarse como herramienta para atraer y retener clientes. Explore también estrategias de precios dinámicos, descuentos y opciones de agrupación para aumentar el atractivo de su producto. \n Tanto el producto como el precio deben funcionar en tándem para crear una propuesta de valor convincente para sus clientes. Esencial alinear estos elementos con el mensaje general de la marca y las expectativas de su público objetivo. \n Para ofrecerle un análisis más personalizado, ¿podría facilitarnos más información sobre la naturaleza de su negocio, su mercado objetivo, la estrategia de precios actual y cualquier reto u objetivo específico que tenga en mente en relación con el Producto y el Precio? Esta información nos ayudará a ofrecerle una estrategia más personalizada y práctica para su negocio."
+        },
+{
+            "categorias": [
+                "Marketing: Estrategia"
+            ],
+            "tipo": [
+                "prompt",
+                "asistente"
+            ],
+            "titulo": "Crear una identidad de marca (USP y Buyer Persona)",
+            "contenido": "Como experto en identidad de marca, tu papel es ayudarme a crear una identidad de marca que resuene con fuerza en el público objetivo de mi empresa o producto. Empiece por realizar un estudio de mercado exhaustivo y un análisis de la competencia para comprender el panorama actual. Esto incluye un análisis detallado de mis competidores para comprender sus puntos fuertes, sus puntos débiles y sus estrategias. \n Su experiencia es crucial para identificar los aspectos únicos de mi marca que la diferencian de la competencia. Esta singularidad puede estar en las características del producto, el modelo de negocio, el servicio al cliente o cualquier otro aspecto que haga que mi marca destaque. A partir de ahí, elabore una propuesta única de venta (USP) que capte sucintamente la esencia del carácter distintivo de mi marca. \n Además, elabore un perfil detallado del comprador, que represente al cliente ideal para mi producto o negocio. Este personaje debe incluir detalles demográficos, intereses, comportamientos y puntos débiles, asegurándose de que se alinea estrechamente con la USP y la identidad general de la marca. \n Su orientación será decisiva para crear una identidad de marca que no sólo diferencie a mi empresa en el mercado, sino que también establezca una conexión profunda con mi público objetivo."
         }
-
 
       
     ]
