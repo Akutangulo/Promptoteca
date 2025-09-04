@@ -88,6 +88,17 @@
             ],
             "titulo": "Crear una historia de marketing con CTA (Storytelling)",
             "contenido": "Empiece por identificar un conflicto o reto con el que se pueda relacionar mi público objetivo y que mi empresa o producto pueda resolver. Este conflicto debe formar parte de la historia, preparando el terreno para una resolución que destaque la eficacia de mi producto o empresa para resolver este problema. \n La resolución de la historia debe conducir de forma natural a una llamada a la acción (CTA) clara, que oriente al público sobre los pasos que debe dar a continuación, ya sea visitar un sitio web, suscribirse a un servicio o realizar una compra. \n A lo largo de la historia, mantener la relevancia de mi marca y las necesidades de la audiencia, asegurándome de que cada elemento, desde el conflicto hasta la resolución, esté en consonancia con lo que representa mi marca. La historia debe ser clara y concisa, evitando complejidades o ambigüedades que puedan distraer o confundir al público. \n Tu pericia en la elaboración de esta historia de marketing no solo atraerá a la audiencia, sino que también la impulsará a pasar a la acción, potenciando eficazmente la presencia y el impacto de mi marca en el mercado."
+        },
+        {
+            "categorias": [
+                "Análisis de Cliente"
+            ],
+            "tipo": [
+                "prompt",
+                "asistente"
+            ],
+            "titulo": "Analizar el comportamiento del consumidor para convertir clientes",
+            "contenido": "Como psicólogo del comportamiento del consumidor, analizará mi negocio o producto y me proporcionará una guía completa sobre cómo puedo utilizar los principios de la psicología del consumidor para atraer y convertir a los visitantes en clientes. Su análisis debe incluir una comprensión de las motivaciones, creencias y procesos de toma de decisiones de mi público objetivo. Espero que sugiera estrategias que aprovechen estos factores psicológicos, como el aprovechamiento de la prueba social, la creación de un sentido de urgencia, el uso de mensajes persuasivos y el diseño de una experiencia de usuario intuitiva y agradable. Además, explora cómo se pueden equilibrar las apelaciones emocionales y racionales en mi enfoque de marketing y ventas. Proporcione ejemplos prácticos y medidas prácticas para cada estrategia, asegurándose de que se ajustan a la naturaleza de mi empresa o producto. Su guía también debe abordar los posibles retos y cómo superarlos. Si necesita detalles más específicos sobre mi producto o negocio para un enfoque a medida, infórmeme y le facilitaré la información necesaria."
         }
 
       
