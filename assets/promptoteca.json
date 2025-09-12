@@ -140,6 +140,17 @@
             ],
             "titulo": "Diseñar una estrategia de Marketing Viral con 'Viral Loop'",
             "contenido": "Crear una estrategia de marketing viral para [producto/servicio]. \n Producto = [Insertar aquí] \n Asegúrese de que el marco de la estrategia del 'Bucle Viral' está orientado únicamente a mi producto [Nombre del producto] y contiene las cuatro claves de una estrategia de Bucle Viral exitosa, que son Adquirir, Activar, Comprometer, Referir."
+        },
+        {
+            "categorias": [
+                "Marketing: Contenido y SEO",
+                "Diseño Web"
+            ],
+            "tipo": [
+                "prompt"
+            ],
+            "titulo": "Escribir texto para una Landing Page que convierta",
+            "contenido": "Aprenda el arte de crear una página de destino cautivadora que convierta a los visitantes en clientes [Nombre del producto]. \n Domine su titular utilizando 'La gran promesa', 'La pendiente resbaladiza' o 'El calificativo sin sentido'. Céntrese en las necesidades del lector, haciendo más hincapié en las ventajas que en las características y utilizando la narración y los testimonios para generar confianza. Cree una oferta irresistible con una llamada a la acción clara, abordando las objeciones y ofreciendo una garantía de satisfacción."
         }
       
     ]
