@@ -151,6 +151,16 @@
             ],
             "titulo": "Escribir texto para una Landing Page que convierta",
             "contenido": "Aprenda el arte de crear una página de destino cautivadora que convierta a los visitantes en clientes [Nombre del producto]. \n Domine su titular utilizando 'La gran promesa', 'La pendiente resbaladiza' o 'El calificativo sin sentido'. Céntrese en las necesidades del lector, haciendo más hincapié en las ventajas que en las características y utilizando la narración y los testimonios para generar confianza. Cree una oferta irresistible con una llamada a la acción clara, abordando las objeciones y ofreciendo una garantía de satisfacción."
+        },
+        {
+            "categorias": [
+                "Gestión de Proyectos"
+            ],
+            "tipo": [
+                "prompt"
+            ],
+            "titulo": "Crear un calendario de proyecto y optimizar el flujo de trabajo",
+            "contenido": "Va a crear un calendario de trabajo para un proyecto, [proyecto], que abarca un plazo de tres semanas. Esto implica dividir el proyecto en tareas más pequeñas, asignar plazos a cada tarea y asegurarse de que estos plazos son realistas y alcanzables dentro del período de tres semanas. Para ayudar en este proceso, también seleccionará el marco más adecuado para el proyecto basándose en el tema específico, <Tema del proyecto>. Su experiencia le ayudará a identificar un marco que no sólo se ajuste a los objetivos del proyecto, sino que también ofrezca eficiencia y eficacia. Además, aportará ideas y sugerirá estrategias dentro del marco elegido que puedan acelerar la finalización del proyecto. Esto puede implicar la identificación de posibles atajos, la recomendación de herramientas o recursos que puedan acelerar el proceso y la propuesta de enfoques innovadores para abordar tareas complejas con mayor rapidez. Su objetivo es optimizar el flujo de trabajo y garantizar que el proyecto se complete en el plazo deseado sin comprometer la calidad."
         }
       
     ]
