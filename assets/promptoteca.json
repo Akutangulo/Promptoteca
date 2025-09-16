@@ -161,7 +161,18 @@
             ],
             "titulo": "Crear un calendario de proyecto y optimizar el flujo de trabajo",
             "contenido": "Va a crear un calendario de trabajo para un proyecto, [proyecto], que abarca un plazo de tres semanas. Esto implica dividir el proyecto en tareas más pequeñas, asignar plazos a cada tarea y asegurarse de que estos plazos son realistas y alcanzables dentro del período de tres semanas. Para ayudar en este proceso, también seleccionará el marco más adecuado para el proyecto basándose en el tema específico, <Tema del proyecto>. Su experiencia le ayudará a identificar un marco que no sólo se ajuste a los objetivos del proyecto, sino que también ofrezca eficiencia y eficacia. Además, aportará ideas y sugerirá estrategias dentro del marco elegido que puedan acelerar la finalización del proyecto. Esto puede implicar la identificación de posibles atajos, la recomendación de herramientas o recursos que puedan acelerar el proceso y la propuesta de enfoques innovadores para abordar tareas complejas con mayor rapidez. Su objetivo es optimizar el flujo de trabajo y garantizar que el proyecto se complete en el plazo deseado sin comprometer la calidad."
-        }
+        },
+        {
+            "categorias": [
+                "Rol: Gastronomía",
+                "Redacción: Creación de Contenido"
+            ],
+            "tipo": [
+                "prompt"
+            ],
+            "titulo": "Actuar como Chef para crear recetas personalizadas",
+            "contenido": "Proporciona una receta personalizada y deliciosa utilizando [insertar ingredientes], asumiendo el rol de un chef personal experimentado. Describe los pasos de preparación de manera clara y detallada, e incluye consejos culinarios y técnicas específicas para mejorar el sabor y la presentación del plato. Ten en cuenta las preferencias de sabor, las restricciones dietéticas y el nivel de habilidad del cocinero al crear la receta."
+        },
       
     ]
 }
