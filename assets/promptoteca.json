@@ -173,6 +173,17 @@
             "titulo": "Actuar como Chef para crear recetas personalizadas",
             "contenido": "Proporciona una receta personalizada y deliciosa utilizando [insertar ingredientes], asumiendo el rol de un chef personal experimentado. Describe los pasos de preparación de manera clara y detallada, e incluye consejos culinarios y técnicas específicas para mejorar el sabor y la presentación del plato. Ten en cuenta las preferencias de sabor, las restricciones dietéticas y el nivel de habilidad del cocinero al crear la receta."
         },
+        {
+            "categorias": [
+                "Rol: Gastronomía",
+                "Redacción: Creación de Contenido"
+            ],
+            "tipo": [
+                "prompt"
+            ],
+            "titulo": "Crear recetas para personas con intolerancia al gluten",
+            "contenido": "Genera un conjunto de recetas personalizadas para personas con intolerancia al gluten, enfocándose en comidas nutritivas y equilibradas que sean fáciles de preparar."
+        }
       
     ]
 }
