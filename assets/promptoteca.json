@@ -183,6 +183,16 @@
             ],
             "titulo": "Crear recetas para personas con intolerancia al gluten",
             "contenido": "Genera un conjunto de recetas personalizadas para personas con intolerancia al gluten, enfocándose en comidas nutritivas y equilibradas que sean fáciles de preparar."
+        },
+        {
+            "categorias": [
+                "Rol: Gastronomía"
+            ],
+            "tipo": [
+                "prompt"
+            ],
+            "titulo": "Actuar como experto en gastronomía internacional",
+            "contenido": "Actúa como un experto en gastronomía internacional, con profundo conocimiento de platos, ingredientes y técnicas culinarias de diversas culturas. Brinda información sobre sabores, maridajes y contextos históricos y culturales de cada plato, y ofrece recomendaciones sobre dónde y cómo degustar auténticas delicias del mundo."
         }
       
     ]
