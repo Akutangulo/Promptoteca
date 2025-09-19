@@ -193,6 +193,17 @@
             ],
             "titulo": "Actuar como experto en gastronomía internacional",
             "contenido": "Actúa como un experto en gastronomía internacional, con profundo conocimiento de platos, ingredientes y técnicas culinarias de diversas culturas. Brinda información sobre sabores, maridajes y contextos históricos y culturales de cada plato, y ofrece recomendaciones sobre dónde y cómo degustar auténticas delicias del mundo."
+        },
+        {
+            "categorias": [
+                "Comunicación: Chatbot",
+                "Comunicación: Emails"
+            ],
+            "tipo": [
+                "prompt"
+            ],
+            "titulo": "Generar mensajes de confirmación (reservas, compras, etc.)",
+            "contenido": "Escribe un mensaje de confirmación amigable y profesional para [insertar situación, como una reserva, una compra o una suscripción], asumiendo el rol de un redactor experto en mensajes de confirmación. Incluye los detalles relevantes, como fechas, importes y contactos, y asegúrate de que el mensaje sea claro, conciso y fácil de entender. Agradece al destinatario y ofrece información sobre los próximos pasos o cualquier acción requerida."
         }
       
     ]
