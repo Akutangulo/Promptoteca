@@ -204,6 +204,19 @@
             ],
             "titulo": "Generar mensajes de confirmación (reservas, compras, etc.)",
             "contenido": "Escribe un mensaje de confirmación amigable y profesional para [insertar situación, como una reserva, una compra o una suscripción], asumiendo el rol de un redactor experto en mensajes de confirmación. Incluye los detalles relevantes, como fechas, importes y contactos, y asegúrate de que el mensaje sea claro, conciso y fácil de entender. Agradece al destinatario y ofrece información sobre los próximos pasos o cualquier acción requerida."
+        },
+        {
+            "categorias": [
+                "Proyecto: Scripts Python",
+                "Marketing: Contenido y SEO",
+                "Programación"
+            ],
+            "tipo": [
+                "prompt",
+                "personal"
+            ],
+            "titulo": "Python: Generar descripción HTML de producto desde ficha técnica",
+            "contenido": "Su tarea es ayudar a un equipo de marketing a crear una descripción de un sitio web minorista de un producto basado en una ficha técnica. \n Escribe una descripción del producto basada en la información prevista en las especificaciones técnicas delimitadas por triples comillas invertidas. \n La descripción está destinada a minoristas de muebles, por lo que debería ser de naturaleza técnica y centrarse en los materiales con los que está construido el producto. \n Al final de la descripción, incluya cada 7 caracteres para ID del producto en la especificación técnica. \n Después de la descripción, incluya una tabla que proporcione la dimensiones del producto. La tabla debe tener dos columnas. \n En la primera columna incluya el nombre de la dimensión. \n En la segunda columna incluya las medidas solo en pulgadas. \n Asigne a la tabla el título 'Dimensiones del producto'. \n  Formatea todo como HTML que pueda usarse en un sitio web. \n Coloque la descripción en un elemento <div class='resumen'>. \n Especificaciones técnicas: ```{fact_sheet_chair}```. \n Es un prompt sacado de los que tengo hechos y funcionando en Python."
         }
       
     ]
