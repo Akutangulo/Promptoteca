@@ -204,6 +204,16 @@
             ],
             "titulo": "Generar mensajes de confirmación (reservas, compras, etc.)",
             "contenido": "Escribe un mensaje de confirmación amigable y profesional para [insertar situación, como una reserva, una compra o una suscripción], asumiendo el rol de un redactor experto en mensajes de confirmación. Incluye los detalles relevantes, como fechas, importes y contactos, y asegúrate de que el mensaje sea claro, conciso y fácil de entender. Agradece al destinatario y ofrece información sobre los próximos pasos o cualquier acción requerida."
+        },
+        {
+            "categorias": [
+                "Rol: RRHH"
+            ],
+            "tipo": [
+                "prompt"
+            ],
+            "titulo": "Crear preguntas para una entrevista de trabajo",
+            "contenido": "Redacta una lista de preguntas interesantes y reveladoras para entrevistar a [insertar nombre de la persona o rol], asumiendo el rol de un entrevistador curioso y perspicaz. Asegúrate de que las preguntas aborden aspectos clave de la vida, la carrera y las opiniones de la persona, y fomenten una conversación abierta y reflexiva. Ten en cuenta el contexto y el propósito de la entrevista al formular las preguntas."
         }
       
     ]
