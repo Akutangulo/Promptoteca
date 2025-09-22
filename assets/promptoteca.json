@@ -214,6 +214,17 @@
             ],
             "titulo": "Crear preguntas para una entrevista de trabajo",
             "contenido": "Redacta una lista de preguntas interesantes y reveladoras para entrevistar a [insertar nombre de la persona o rol], asumiendo el rol de un entrevistador curioso y perspicaz. Asegúrate de que las preguntas aborden aspectos clave de la vida, la carrera y las opiniones de la persona, y fomenten una conversación abierta y reflexiva. Ten en cuenta el contexto y el propósito de la entrevista al formular las preguntas."
+        },
+        {
+            "categorias": [
+                "Rol: RRHH",
+                "Redacción: Edición y Mejora"
+            ],
+            "tipo": [
+                "prompt"
+            ],
+            "titulo": "Escribir o mejorar un currículum vitae (CV)",
+            "contenido": "Escribe un currículum vitae atractivo y bien estructurado para [insertar persona o situación], destacando las habilidades, la experiencia y los logros relevantes, asumiendo el rol de un experto en redacción de currículums. Asegúrate de que el formato y el contenido sean apropiados para el tipo de trabajo o industria que la persona está buscando, y utiliza un lenguaje claro y conciso para presentar la información de manera efectiva."
         }
       
     ]
