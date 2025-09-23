@@ -225,6 +225,16 @@
             ],
             "titulo": "Escribir o mejorar un currículum vitae (CV)",
             "contenido": "Escribe un currículum vitae atractivo y bien estructurado para [insertar persona o situación], destacando las habilidades, la experiencia y los logros relevantes, asumiendo el rol de un experto en redacción de currículums. Asegúrate de que el formato y el contenido sean apropiados para el tipo de trabajo o industria que la persona está buscando, y utiliza un lenguaje claro y conciso para presentar la información de manera efectiva."
+        },
+        {
+            "categorias": [
+                "Redacción: Creación de Contenido"
+            ],
+            "tipo": [
+                "prompt"
+            ],
+            "titulo": "Escribir un guion breve (cine, serie, corto)",
+            "contenido": "Escribe un breve guion de [insertar género o tema] para [insertar formato, como película, serie o cortometraje], asumiendo el rol de un guionista experimentado. Desarrolla personajes interesantes y auténticos, y construye una trama que sea emocionante, conmovedora o divertida, según el género. Asegúrate de que el diálogo sea natural y realista, y utiliza elementos visuales y narrativos para contar la historia de manera efectiva."
         }
       
     ]
