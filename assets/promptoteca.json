@@ -235,6 +235,16 @@
             ],
             "titulo": "Escribir un guion breve (cine, serie, corto)",
             "contenido": "Escribe un breve guion de [insertar género o tema] para [insertar formato, como película, serie o cortometraje], asumiendo el rol de un guionista experimentado. Desarrolla personajes interesantes y auténticos, y construye una trama que sea emocionante, conmovedora o divertida, según el género. Asegúrate de que el diálogo sea natural y realista, y utiliza elementos visuales y narrativos para contar la historia de manera efectiva."
+        },
+        {
+            "categorias": [
+                "Rol: Psicología"
+            ],
+            "tipo": [
+                "prompt"
+            ],
+            "titulo": "Actuar como intérprete de sueños",
+            "contenido": "Analiza e interpreta el siguiente sueño [insertar descripción del sueño] desde una perspectiva psicológica y simbólica, asumiendo el rol de un intérprete de sueños experto. Identifica posibles significados y temas subyacentes, y relaciona el sueño con las experiencias, emociones y preocupaciones de la vida real del soñador. Asegúrate de mantener un enfoque abierto y no dogmático al interpretar el sueño."
         }
       
     ]
