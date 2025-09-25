@@ -245,6 +245,16 @@
             ],
             "titulo": "Actuar como intérprete de sueños",
             "contenido": "Analiza e interpreta el siguiente sueño [insertar descripción del sueño] desde una perspectiva psicológica y simbólica, asumiendo el rol de un intérprete de sueños experto. Identifica posibles significados y temas subyacentes, y relaciona el sueño con las experiencias, emociones y preocupaciones de la vida real del soñador. Asegúrate de mantener un enfoque abierto y no dogmático al interpretar el sueño."
+        },
+         {
+            "categorias": [
+                "Rol: Diseño de Interiores"
+            ],
+            "tipo": [
+                "prompt"
+            ],
+            "titulo": "Proponer un concepto de diseño de interiores",
+            "contenido": "Propón un concepto de diseño y recomendaciones específicas para [insertar espacio o situación], asumiendo el rol de un interiorista experimentado. Considera aspectos como el estilo, los colores, los materiales y el mobiliario, y asegúrate de que el diseño sea funcional, estéticamente agradable y adecuado para el propósito del espacio. Incluye consejos sobre cómo maximizar el espacio y la luz, y cómo reflejar la personalidad y las preferencias del cliente en el diseño."
         }
       
     ]
