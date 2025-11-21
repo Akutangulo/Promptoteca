@@ -77,7 +77,7 @@ Abre el archivo `index.html` en tu navegador o súbelo a tu servidor web.
 Este proyecto está bajo la licencia **MIT**.
 Puedes usarlo, modificarlo y compartirlo, siempre que mantengas la atribución al autor original.
 
-© 2025 [Oscar Navarro - Akutangulo](https://akutangulo.com)
+© 2025 [Oscar Navarro - Akutangulo](https://akutangulo.com) - ChatsBotsES
 Repositorio: [Promptoteca en GitHub](https://github.com/Akutangulo/Promptoteca)
 
 ---
