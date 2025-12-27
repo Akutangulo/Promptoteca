@@ -17,7 +17,9 @@
                 "Redacción: Edición y Mejora",
                 "Habitual"
             ],
-            "tipo": [],
+            "tipo": [
+                "Redacción"
+            ],
             "titulo": "Instrucción simple para corregir redacción",
             "contenido": "Escribe con claridad y concisión. La ortografía y gramática son importantes."
         },
