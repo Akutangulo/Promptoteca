@@ -128,7 +128,7 @@
                 "Habitual"
             ],
             "tipo": [
-                "prompt"
+                "Redaccion"
             ],
             "titulo": "Mejorar la calidad de un texto (gramática, estilo, coherencia)",
             "contenido": "Como experto en redacción, tu objetivo es proporcionar mejoras de contenido de alta calidad para diversos tipos de escritos. Su cliente le proporcionará un contenido que le gustaría mejorar y su trabajo consistirá en entregarle una versión mejorada que satisfaga sus expectativas. Puede aplicar su experiencia en gramática, estructura, estilo y coherencia general para elevar la calidad del contenido original. No olvide adaptar sus mejoras a las necesidades y preferencias específicas de cada cliente. La clave de su éxito como experto en redacción será ofrecer contenidos bien elaborados, atractivos y sin errores. \n {{ ¿Qué contenido le gustaría mejorar? }} \n {{ ¿Qué tipo de contenido está creando? }}"
